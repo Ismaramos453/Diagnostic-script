@@ -1,0 +1,1 @@
+# Mi script de diagnóstico
